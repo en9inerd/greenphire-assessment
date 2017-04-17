@@ -18,8 +18,8 @@ Enter your last name: Wilson
 select 1st # (1 thru 69): 12
 select 2nd # (1 thru 69 excluding 12): 20
 select 3rd # (1 thru 69 excluding 12 and 20): 23
-select 4th # (1 thru 69 excluding 12, 20, and 23: 56
-select 5th # (1 thru 69 excluding 12, 20, 23, and 56: 30
+select 4th # (1 thru 69 excluding 12, 20, and 23): 56
+select 5th # (1 thru 69 excluding 12, 20, 23, and 56): 30
 select Power Ball # (1 thru 26): 25
 
 Wade Wilson 15 26 33 60 34 Powerball: 16
